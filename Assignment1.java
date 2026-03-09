@@ -1,6 +1,5 @@
-class Tester {
-
-    public static int[] findLeapYears(int year) {
+class Assignment1 {
+  public static int[] findLeapYears(int year) {
         int[] leapYears = new int[15];
         int count = 0;
 
